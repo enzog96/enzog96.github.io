@@ -10,32 +10,32 @@
 }
 
 function over(){
-    document.getElementById("textChange").innerHTML = "500g de farine, 300g d eau, 20g d huile, 1 sachet de levure 1 cs de sel";
+    document.getElementById("textChange").innerHTML = "html";
 
 }
 
 function out(){
-    document.getElementById("textChange").innerHTML = "Melanger le sel avec la farine, ajouter la levure, verser l huile et l eau et melanger jusqu a l obtention du pate omogene";
+    document.getElementById("textChange").innerHTML = "html1111111111111111111111";
 
 }
 
 function over2(){
-    document.getElementById("textChange2").innerHTML = "50g de beurre, 2 oignons, 2 gousses d ail, 1 cac de chili, 65g de concentré de tomate, 1 cac de cumin, 1 boite haricots rouge, 500g de viande, 30cl de bouillon";
+    document.getElementById("textChange2").innerHTML = "css";
 
 }
 
 function out2(){
-    document.getElementById("textChange2").innerHTML = "Préchauffer le four à 180°C Dans une cocotte en fonte, faire fondre le beurre, et ensuite dorer doucement l'oignon et l’ail.Incorporer le boeuf haché et laisser cuire doucement 10 min.Mélanger le chili, le cumin, le concentré de tomates, et incorporer le tout au boeuf. Ajouter les haricots, le bouillon, du sel et du poivre.Couvrir et cuire 25 min au four.";
+    document.getElementById("textChange2").innerHTML = "csssssssssssssssssssssss";
 
 }
 
 function over3(){
-    document.getElementById("textChange3").innerHTML = "500g de pates, 50cl de creme, 1 pincée de sel, poivre, 250g de lardons,1 oignon, 3 jaune oeuf "; 
+    document.getElementById("textChange3").innerHTML = "javascript"; 
 
 }
 
 function out3(){
-    document.getElementById("textChange3").innerHTML = "Cuire les pâtes dans un grand volume d'eau bouillante salée.Emincer les oignons et les faire revenir à la poêle. Dès qu'ils ont bien dorés, y ajouter les lardons.Préparer dans un saladier la crème fraîche, les oeufs, le sel, le poivre et mélanger.Retirer les lardons du feu dès qu'ils sont dorés et les ajouter à la crème.Une fois les pâtes cuite al dente, les égoutter et y incorporer la crème. Remettre sur le feu si le plat a refroidi.";
+    document.getElementById("textChange3").innerHTML = "javascripttttttttttttttttttt";
 
 }
 
